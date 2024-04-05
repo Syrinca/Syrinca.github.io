@@ -48,6 +48,10 @@ excerpt: Syrinca website
     <ul>
       <p>🚯 &nbsp; I take pleasure in causing mischief to every scoundrelly rabble.</p>
     </ul>
+    <h2>My Contacts:</h2>
+    <ul>
+      <p><a href="https://github.com/Syrinca" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://steamcommunity.com/id/syrinca/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" /></a><a href="https://www.google.com/search?q="Syrinca"" target="_blank"><img alt="Google" src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a><a href="https://pinterest.com/syrincaofficial" target="_blank"><img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" /></a><a href="syrinca@tuta.io" target="_blank"><img alt="Tuta" src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" /></a></p>
+    </ul>
     <hr>
     <div style="text-align: center;">
       <h1>I care not for what thou shalt do.</h1>
