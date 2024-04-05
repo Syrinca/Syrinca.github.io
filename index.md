@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 lang: en-US
 title: Hello
 excerpt: World
