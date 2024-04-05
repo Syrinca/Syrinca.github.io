@@ -39,7 +39,7 @@ excerpt: Syrinca website
     <p><strong>Please note that the scripts and programs are not designed to cause harm to individuals or companies. Any actions taken with them are your responsibility, as they are provided for 
     informational purposes only.</strong></p>
     <img align="right" height="200" width="375" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrinca&layout=compact">
-    <h2>Personal Stuff:</h2>
+    <h2>Personal Info:</h2>
     <ul>
       <li>🖨 I’m working with Batch, C, C++, C#, etc.</li>
       <li>🧮 I’m exploring UNIX.</li>
