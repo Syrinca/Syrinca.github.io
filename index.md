@@ -35,7 +35,7 @@ excerpt: Syrinca website
     <img src="https://github.com/Syrinca/Syrinca.github.io/assets/165695271/accd685d-7068-459b-a9a8-79d05470c062" alt="Avatar" style="float: left; height: 175px; width: 175px; border-radius: 10px;">
     <img src="https://github.com/Syrinca/Syrinca.github.io/assets/165695271/eb958813-b3ae-4d71-8508-90a6000dff41" alt="" style="float: left; height: 175px; width: 15px;">
     <h1>I care not whether thou art present or absent.</h1>
-    <p>I am <a href="https://www.youtube.com/watch?v=E6-lxB4G814" target="_blank">Syrinca</a>, a developer of bespoke scripts and programs tailored for the annihilation and obliteration within the Windows         operating system. You can reach out to me via email for these services, with      modest charges and assured quality of workmanship.</p>
+    <p>I am <a href="https://www.youtube.com/watch?v=E6-lxB4G814" target="_blank">Syrinca</a>, a developer of bespoke scripts and programs tailored for the annihilation and obliteration within the Windows         operating system. I also provide services for editing photos and video/audio editing. You can reach out to me via social links for these services, with modest charges and assured quality of workmanship.</p>
     <p><strong>Please note that the scripts and programs are not designed to cause harm to individuals or companies. Any actions taken with them are your responsibility, as they are provided for 
     informational purposes only.</strong></p>
     <img align="right" height="200" width="375" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrinca&layout=compact">
