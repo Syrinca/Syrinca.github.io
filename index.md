@@ -76,7 +76,7 @@ excerpt: Syrinca website
       <div align="center">
         <h3>I care not for what thou shalt do.</h3>
       </div>
+    </div>
   </div>
-</div>
 
 
