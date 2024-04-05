@@ -31,7 +31,7 @@ body::before {
   background-image: url('/images/background.jpg');
   background-size: cover;
   background-position: center;
-  filter: blur(6px); /* Применение размытия только к фоновому изображению */
+  filter: blur(7px); /* Применение размытия только к фоновому изображению */
   z-index: -1; /* Помещаем псевдоэлемент под контентом страницы */
 }
 
