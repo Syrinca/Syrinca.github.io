@@ -9,6 +9,7 @@ $small-font-size:  $base-font-size * 0.8;
 $base-line-height: 1.2;
 
 $foreground-color: white;  /* Изменено для лучшего контраста */
+$background-color: #121212;  /* Цвет фона изменен на темный */
 $link-color: #FF4081;  /* Яркий акцентный цвет для ссылок */
 body {
   font-family: $base-font-family;
