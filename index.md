@@ -31,6 +31,7 @@ excerpt: Syrinca website
 
 <div class="container">
   <div class="content">
+    <img src="https://github.com/Syrinca/Syrinca.github.io/assets/165695271/63159130-6f70-4dbc-b79a-09e29d78681c" alt="Avatar" style="float: right; height: 200px; width: 200px;">
     <h2>I care not whether thou art present or absent.</h2>
     <p>I am a developer of bespoke scripts and programs tailored for the annihilation and obliteration within the Windows operating system. You can reach out to me via email for these services, with modest        charges and assured quality of workmanship.</p>
     <p><strong>Please note that the scripts and programs are not designed to cause harm to individuals or companies. Any actions taken with them are your responsibility, as they are provided for 
