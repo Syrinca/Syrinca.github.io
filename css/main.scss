@@ -8,16 +8,9 @@ $base-font-size:   18pt;
 $small-font-size:  $base-font-size * 0.8;
 $base-line-height: 1.2;
 
-$foreground-color: black;
-$background-color: white;
-$link-color: tomato;
-
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
-  margin: 0;
-  padding: 0;
-}
+$foreground-color: white;  /* Изменено для лучшего контраста */
+$background-color: #121212;  /* Цвет фона изменен на темный */
+$link-color: #FF4081;  /* Яркий акцентный цвет для ссылок */
 
 body {
   font-family: $base-font-family;
@@ -26,6 +19,14 @@ body {
   font-weight: normal;
   color: $foreground-color;
   background-color: $background-color;
+}
+
+a {
+  color: $link-color;
+  
+  &:visited {
+    color: $link-color/2;
+  }
 }
 
 h1, h2, h3, h4, h5, h6,
