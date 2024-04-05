@@ -6,11 +6,12 @@ excerpt: Syrinca website
 ---
 <style>
   .container {
-    text-align: center;
     display: flex;
     justify-content: center;
+    align-items: center;
+    height: 100vh; /* Добавляем высоту 100% от высоты видимой области */
   }
-
+  
   .content {
     max-width: 800px;
     text-align: left;
