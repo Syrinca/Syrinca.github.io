@@ -24,7 +24,7 @@ excerpt: Syrinca website
   }
 
   p {
-    font-size: 16px;
+    font-size: 20px;
     margin-bottom: 10px;
   }
 </style>
