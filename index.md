@@ -1,8 +1,8 @@
 ---
 layout: article
 lang: en-US
-title: Hello
-excerpt: World
+title: Syrinca
+excerpt: Syrinca website
 ---
 
 Hello World!
