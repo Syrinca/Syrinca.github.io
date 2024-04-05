@@ -40,10 +40,9 @@ excerpt: Syrinca website
     <img align="right" height="200" width="375" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrinca&layout=compact">
     <h2>Personal Stuff:</h2>
     <ul>
-      <p>🛠 &nbsp; I’m currently working with Batch, C, C++, C#, etc.</p>
-      <p>🚀 &nbsp; I’m currently exploring UNIX.</p>
-      <p>👾 &nbsp; Fun fact: All disclaimers are but a mere cloak.</p>
-      <p>📫 &nbsp; Reach me out: <a href="mailto:syrinca@tuta.io">syrinca@tuta.io</a>.</p>
+      <p>🖨 &nbsp; I’m currently working with Batch, C, C++, C#, etc.</p>
+      <p>🧮 &nbsp; I’m currently exploring UNIX.</p>
+      <p>💀 &nbsp; Fun fact: All disclaimers are but a mere cloak.</p>
     </ul>
     <h2>My Hobbies:</h2>
     <ul>
