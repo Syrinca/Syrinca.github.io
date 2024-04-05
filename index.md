@@ -18,17 +18,13 @@ excerpt: Syrinca website
     padding: 20px;
   }
 
-  h1 {
+  h1, h2 {
     font-size: 24px;
     font-weight: bold;
   }
 
-  h2 {
-    font-size: 20px;
-    font-weight: bold;
-  }
-
   p {
+    font-size: 16px;
     margin-bottom: 10px;
   }
 </style>
