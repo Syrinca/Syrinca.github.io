@@ -49,19 +49,20 @@ excerpt: Syrinca website
       <li>🚯 &nbsp; I take pleasure in causing mischief to every scoundrelly rabble.</li>
     </ul>
     <h2>My Music Favorites:</h2>
-</details>
-<summary>♂️ &nbsp; Gachi Remix</summary>
-  <ul>
-    <li><a href="https://www.youtube.com/watch?v=7Oq6im5CaY8">adaptive strike</a></li>
-    <li><a href="https://www.youtube.com/watch?v=sJ2Z93BFROM">Бабы</a></li>
-    <li><a href="https://www.youtube.com/watch?v=yaX9nNwdVn4">HARD DRIVE</a></li>
-    <li><a href="https://www.youtube.com/watch?v=POb02mjj2zE">Юность в сапогах</a></li>
-    <li><a href="https://www.youtube.com/watch?v=sIn5kqjVsfM">Gangnam Style</a></li>
-    <li><a href="https://www.youtube.com/watch?v=4EKtjx4AAoQ">Снова Я Напиваюсь</a></li>
-    <li><a href="https://www.youtube.com/watch?v=p0YOYjHLvaY">Быстро</a></li>
-    <li><a href="https://www.youtube.com/watch?v=OsIcXvhtRxk">Дико тусим</a></li>
-  </ul>
-</details>
+  </details>
+    <details>
+      <summary>♂️ &nbsp; Gachi Remix</summary>
+      <ul>
+        <li><a href="https://www.youtube.com/watch?v=7Oq6im5CaY8">adaptive strike</a></li>
+        <li><a href="https://www.youtube.com/watch?v=sJ2Z93BFROM">Бабы</a></li>
+        <li><a href="https://www.youtube.com/watch?v=yaX9nNwdVn4">HARD DRIVE</a></li>
+        <li><a href="https://www.youtube.com/watch?v=POb02mjj2zE">Юность в сапогах</a></li>
+        <li><a href="https://www.youtube.com/watch?v=sIn5kqjVsfM">Gangnam Style</a></li>
+        <li><a href="https://www.youtube.com/watch?v=4EKtjx4AAoQ">Снова Я Напиваюсь</a></li>
+        <li><a href="https://www.youtube.com/watch?v=p0YOYjHLvaY">Быстро</a></li>
+        <li><a href="https://www.youtube.com/watch?v=OsIcXvhtRxk">Дико тусим</a></li>
+      </ul>
+    </details>
     <details>
       <summary>🥁 &nbsp; Marches</summary>
       <ul>
@@ -99,5 +100,3 @@ excerpt: Syrinca website
       </div>
     </div>
   </div>
-
-
