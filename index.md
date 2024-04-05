@@ -17,6 +17,7 @@ excerpt: Syrinca website
     text-align: left;
     border: 1px solid #ccc;
     padding: 20px;
+    background-color: rgba(12, 12, 12, 0.8);
   }
   
   h1, h2 {
