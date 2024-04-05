@@ -18,6 +18,17 @@ excerpt: Syrinca website
     border: 1px solid #ccc;
     padding: 20px;
   }
+  
+  h1, h2 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  p {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+</style>
 
 <div class="container">
   <div class="content">
