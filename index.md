@@ -50,7 +50,6 @@ excerpt: Syrinca website
     </ul>
     <h2>My Music Favorites:</h2>
 </details>
-    <details>
 <summary>♂️ &nbsp; Gachi Remix</summary>
   <ul>
     <li><a href="https://www.youtube.com/watch?v=7Oq6im5CaY8">adaptive strike</a></li>
