@@ -95,8 +95,6 @@ excerpt: Syrinca website
         <li><a href="https://www.youtube.com/watch?v=OJXi5BvR_DU">Take Me!</a></li>
         <li><a href="https://www.youtube.com/watch?v=DJfg39WkMvE">Blend W</a></li>
       </ul>
-      <div align="center">
-        <p>I care not for what thou shalt do.</h3>
-      </div>
     </div>
   </div>
+</div>
