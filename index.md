@@ -32,7 +32,7 @@ excerpt: Syrinca website
 <div class="container">
   <div class="content">
     <img src="https://github.com/Syrinca/Syrinca.github.io/assets/165695271/accd685d-7068-459b-a9a8-79d05470c062" alt="Avatar" style="float: left; height: 175px; width: 175px; border-radius: 10px;">
-    <img src="https://github.com/Syrinca/Syrinca.github.io/assets/165695271/a3d3c126-0312-4f9c-95c4-b05bca2c976c" alt="Border" style="float: left; height: 175px; width: 10px; border-radius: 10px;">
+    <img src="https://github.com/Syrinca/Syrinca.github.io/assets/165695271/45e478d2-e5ac-4dcf-9fdb-2e8808b24b23" alt="Border" style="float: left; height: 175px; width: 10px;">
     <h2>I care not whether thou art present or absent.</h2>
     <p>I am a developer of bespoke scripts and programs tailored for the annihilation and obliteration within the Windows operating system. You can reach out to me via email for these services, with modest        charges and assured quality of workmanship.</p>
     <p><strong>Please note that the scripts and programs are not designed to cause harm to individuals or companies. Any actions taken with them are your responsibility, as they are provided for 
