@@ -37,7 +37,7 @@ excerpt: Syrinca website
     <p>I am <a href="https://www.youtube.com/watch?v=POb02mjj2zE" target="_blank">Syrinca</a>, a developer of bespoke scripts and programs tailored for the annihilation and obliteration within the Windows         operating system. You can reach out to me via email for these services, with      modest charges and assured quality of workmanship.</p>
     <p><strong>Please note that the scripts and programs are not designed to cause harm to individuals or companies. Any actions taken with them are your responsibility, as they are provided for 
     informational purposes only.</strong></p>
-    <img align="right" height="185" width="375" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrinca&layout=compact">
+    <img align="right" height="200" width="375" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrinca&layout=compact">
     <h2>Personal Stuff:</h2>
     <ul>
       <p>🛠 &nbsp; I’m currently working with Batch, C, C++, C#, etc.</p>
