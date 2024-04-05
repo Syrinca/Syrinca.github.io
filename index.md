@@ -41,8 +41,8 @@ excerpt: Syrinca website
     <img align="right" height="200" width="375" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrinca&layout=compact">
     <h2>Personal Stuff:</h2>
     <ul>
-      <li>🖨 I’m currently working with Batch, C, C++, C#, etc.</li>
-      <li>🧮 I’m currently exploring UNIX.</li>
+      <li>🖨 I’m working with Batch, C, C++, C#, etc.</li>
+      <li>🧮 I’m exploring UNIX.</li>
       <li>💀 Fun fact: All disclaimers are but a mere cloak.</li>
     </ul>
     <h2>My Hobbies:</h2>
