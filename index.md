@@ -19,17 +19,6 @@ excerpt: Syrinca website
     padding: 20px;
   }
 
-  h1, h2 {
-    font-size: 24px;
-    font-weight: bold;
-  }
-
-  p {
-    font-size: 20px;
-    margin-bottom: 10px;
-  }
-</style>
-
 <div class="container">
   <div class="content">
     <h1>Автобиография Syrinca</h1>
