@@ -96,4 +96,5 @@ excerpt: Syrinca website
         <p><a href="https://www.youtube.com/watch?v=OJXi5BvR_DU">Take Me!</a></p>
         <p><a href="https://www.youtube.com/watch?v=DJfg39WkMvE">Blend W</a></p>
       </ul>
-
+  </div>
+</div>
