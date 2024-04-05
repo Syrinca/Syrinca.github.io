@@ -24,7 +24,7 @@ excerpt: Syrinca website
     font-weight: bold;
   }
 
-  p {
+  p, li {
     font-size: 20px;
   }
 </style>
@@ -40,13 +40,13 @@ excerpt: Syrinca website
     <img align="right" height="200" width="375" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrinca&layout=compact">
     <h2>Personal Stuff:</h2>
     <ul>
-      <p>- 🖨 I’m currently working with Batch, C, C++, C#, etc.</p>
-      <p>- 🧮 I’m currently exploring UNIX.</p>
-      <p>- 💀 Fun fact: All disclaimers are but a mere cloak.</p>
+      <li>🖨 I’m currently working with Batch, C, C++, C#, etc.</li>
+      <li>🧮 I’m currently exploring UNIX.</li>
+      <li>💀 Fun fact: All disclaimers are but a mere cloak.</li>
     </ul>
     <h2>My Hobbies:</h2>
     <ul>
-      <p>🚯 I take pleasure in causing mischief to every scoundrelly rabble.</p>
+      <li>🚯 I take pleasure in causing mischief to every scoundrelly rabble.</li>
     </ul>
     <h2>My Contacts:</h2>
     <ul>
