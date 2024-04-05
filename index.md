@@ -43,7 +43,7 @@ excerpt: Syrinca website
     <ul>
       <li>🖨 I’m working with Batch, C, C++, C#, etc.</li>
       <li>🧮 I’m exploring UNIX.</li>
-      <li>💀 Fun fact: All disclaimers are but a mere cloak.</li>
+      <li>💀 Fact: All disclaimers are but a mere cloak.</li>
     </ul>
     <h2>My Hobbies:</h2>
     <ul>
