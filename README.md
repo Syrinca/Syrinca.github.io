@@ -1,2 +1,2 @@
 # Syrinca.github.io
-Syrinca's website...
+Syrinca's website.
