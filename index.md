@@ -51,11 +51,33 @@ excerpt: Syrinca website
     <h2>My Music Favorites:</h2>
 </details>
     <details>
-  <summary>🎵 &nbsp; Ordinary</summary>
+<summary>♂️ &nbsp; Gachi Remix</summary>
   <ul>
-    <li><a href="https://www.youtube.com/watch?v=ww9hZfgC2d8">머리어깨무릎발 (H.S.K.T.)</a></li>
-    <li><a href="https://www.youtube.com/watch?v=TbsBEb1ZxWA">Lone Digger</a></li>
+    <li><a href="https://www.youtube.com/watch?v=7Oq6im5CaY8">adaptive strike</a></li>
+    <li><a href="https://www.youtube.com/watch?v=sJ2Z93BFROM">Бабы</a></li>
+    <li><a href="https://www.youtube.com/watch?v=yaX9nNwdVn4">HARD DRIVE</a></li>
+    <li><a href="https://www.youtube.com/watch?v=POb02mjj2zE">Юность в сапогах</a></li>
+    <li><a href="https://www.youtube.com/watch?v=sIn5kqjVsfM">Gangnam Style</a></li>
+    <li><a href="https://www.youtube.com/watch?v=4EKtjx4AAoQ">Снова Я Напиваюсь</a></li>
+    <li><a href="https://www.youtube.com/watch?v=p0YOYjHLvaY">Быстро</a></li>
+    <li><a href="https://www.youtube.com/watch?v=OsIcXvhtRxk">Дико тусим</a></li>
   </ul>
+</details>
+    <details>
+      <summary>🥁 &nbsp; Marches</summary>
+      <ul>
+        <li><a href="https://www.youtube.com/watch?v=yWq-2tld57o">Song of the Defenders of Moscow</a></li>
+        <li><a href="https://www.youtube.com/watch?v=FdXIGQjnc0M">Тревожный марш</a></li>
+        <li><a href="https://www.youtube.com/watch?v=NIDJTHqY7mI">Panteri</a></li>
+        <li><a href="https://www.youtube.com/watch?v=yRGgl9KT9rE">Bosanska Artiljerija</a></li>
+      </ul>
+    </details>
+    <details>
+      <summary>🎵 &nbsp; Ordinary</summary>
+      <ul>
+        <li><a href="https://www.youtube.com/watch?v=ww9hZfgC2d8">머리어깨무릎발 (H.S.K.T.)</a></li>
+        <li><a href="https://www.youtube.com/watch?v=TbsBEb1ZxWA">Lone Digger</a></li>
+      </ul>
     </details>
     <details>
       <summary>⭐ &nbsp; Genial</summary>
