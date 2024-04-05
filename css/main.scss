@@ -32,16 +32,19 @@ a {
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure {
+  font-size: 24px;
   margin-bottom: 0.25em;
 }
 
 li {
   > ul,
   > ol {
+    font-size: 20px;
     margin-bottom: 0;
   }
 }
 
 h1, h2, h3, h4, h5, h6 {
+  font-size: 20px;
   font-weight: normal;
 }
