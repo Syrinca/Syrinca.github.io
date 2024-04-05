@@ -20,6 +20,12 @@ body {
   background-color: $background-color;
 }
 
+.image-section {
+    background-image: url("./images/background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
 a {
   color: $link-color;
   
