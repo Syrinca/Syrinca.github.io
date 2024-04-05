@@ -47,8 +47,6 @@ excerpt: Syrinca website
     </ul>
     <h2>My Hobbies:</h2>
     <ul>
-      <p>💻 &nbsp; I take pleasure in devising scripts for the sake of destruction and obliteration.</p>
-      <p>📰 &nbsp; I take pleasure in composing articles about my endeavors, yet regrettably, they are all deemed as particularly perilous content and thus blocked.</p>
       <p>🚯 &nbsp; I take pleasure in causing mischief to every scoundrelly rabble.</p>
     </ul>
     <hr>
