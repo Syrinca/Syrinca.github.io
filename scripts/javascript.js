@@ -1,3 +1,4 @@
+// Пока что только напрямую
 function devicePixelRatio {
   if (window.devicePixelRatio !== 1) {    
     var dpt = window.devicePixelRatio;
