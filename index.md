@@ -50,7 +50,7 @@ excerpt: Syrinca website
     <img align="right" height="170" width="375" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrinca&layout=compact">
     <h2>Personal Info:</h2>
     <ul>
-      <li>🖨 I’m working with Batch, C, C++, C#, etc.</li>
+      <li>🖨️ I’m working with Batch, C, C++, C#, etc.</li>
       <li>🧮 I’m exploring UNIX.</li>
       <li>💀 Fact: All disclaimers are but a mere cloak.</li>
     </ul>
