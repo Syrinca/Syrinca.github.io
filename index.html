@@ -6,60 +6,29 @@ excerpt: Syrinca website
 ---
 
 <style>
-  .buttons {
-    position: fixed;
-    bottom: 20px;
-    left: 50%;
-    transform: translateX(-50%);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: rgba(12, 12, 12, 0.8);
-    border: 1px solid #ccc;
-    padding: 10px;
-    z-index: 999;
-    margin-top: 20px; /* Добавляем отступ сверху для соответствия требованию */
-  }
-  
-  .buttons a {
-    padding: 10px 20px;
-    margin: 0 10px;
-    background-color: rgba(12, 12, 12, 0.8);
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    text-decoration: none;
-    color: #333;
-  }
-  
   .container {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 40px; /* Добавляем отступ снизу для соответствия требованию */
+    height: 100vh; /* Добавляем высоту 100% от высоты видимой области */
   }
   
   .content {
     max-width: 800px;
-    position: fixed;
     text-align: left;
     border: 1px solid #ccc;
     padding: 20px;
     background-color: rgba(12, 12, 12, 0.8);
   }
-
-    h1, h2 {
-      font-size: 24px;
-      font-weight: bold;
-    }
-
-    p, li {
-      font-size: 20px;
-    }
+  
+  h1, h2 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  p, li {
+    font-size: 20px;
+  }
 </style>
-
-<head>
-<body>
-</head>
 
 <script>
   if (window.devicePixelRatio !== 1) {
@@ -69,11 +38,6 @@ excerpt: Syrinca website
     document.write('<meta name="viewport" content="width=' + widthM + ', height=' + widthH + '">');
   }
 </script>
-
-<div class="buttons">
-  <a href="A.html">Button A</a>
-  <a href="B.html">Button B</a>
-</div>
 
 <div class="container">
   <div class="content">
