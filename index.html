@@ -4,31 +4,62 @@ lang: en-US
 title: Syrinca
 excerpt: Syrinca website
 ---
-<style>
-  .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh; /* Добавляем высоту 100% от высоты видимой области */
-  }
-  
-  .content {
-    max-width: 800px;
-    text-align: left;
-    border: 1px solid #ccc;
-    padding: 20px;
-    background-color: rgba(12, 12, 12, 0.8);
-  }
-  
-  h1, h2 {
-    font-size: 24px;
-    font-weight: bold;
-  }
+  <style>
+    .buttons {
+      position: fixed;
+      top: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #f1f1f1;
+      border: 1px solid #ccc;
+      padding: 10px;
+      z-index: 999;
+    }
 
-  p, li {
-    font-size: 20px;
-  }
-</style>
+    .buttons a {
+      padding: 10px 20px;
+      margin: 0 10px;
+      background-color: #f9f9f9;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      text-decoration: none;
+      color: #333;
+    }
+
+    .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh; /* Added to set the height to 100% of the viewport height */
+    }
+
+    .content {
+      max-width: 800px;
+      text-align: left;
+      border: 1px solid #ccc;
+      padding: 20px;
+      background-color: rgba(12, 12, 12, 0.8);
+    }
+
+    h1, h2 {
+      font-size: 24px;
+      font-weight: bold;
+    }
+
+    p, li {
+      font-size: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="buttons">
+  <a href="A.html">Button A</a>
+  <a href="B.html">Button B</a>
+</div>
 
 <script>
   if (window.devicePixelRatio !== 1) {
